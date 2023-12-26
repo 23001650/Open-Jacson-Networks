@@ -17,7 +17,7 @@ Visual components and Python
 
 
 ## Experiment:
-
+![Alt text](<Screenshot 2023-12-26 094510.png>)
 
 ## Program
 ```
@@ -64,5 +64,6 @@ print("----------------------------------------------------------------------")
 
 
 ## Output
-
+![Alt text](<Screenshot 2023-12-26 094553.png>)
 ## Result
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
